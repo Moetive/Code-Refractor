@@ -2,6 +2,7 @@
 Code Refracter Assignment
 I tried using html semantic tags and elements to keep the website more up to date
 The whole purpose of this assignment/homework is to update the current code without changing what it does
+
 WHEN YOU view the source code
 YOU WILL find semantic HTML elements
 WHEN YOU view the structure of the HTML elements
